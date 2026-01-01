@@ -1,4 +1,4 @@
-This course was taught in Fall 2025 semester at the University College Dublin. The course was delivered in-person, with materials posted via Brightspace platform. Content was delivered over a 6-7 week period following a corresponding length segment on Microeconomics. However, this Macro course does NOT assume any knowledge of Microeconomics.
+This course was taught in Fall 2025 semester at the University College Dublin. The course was delivered in-person, with materials posted via Brightspace platform. Content was delivered over a 6-7 week period following a corresponding length segment on Microeconomics (by Prof. Chris  Jepsen). However, this Macro course does NOT assume any knowledge of Microeconomics.
 
 In contrast to many other Intro courses in Macroeconomics, this course attempts to blend more data, interactive online tools, and historical background into the otherwise standard Macro topics, such as measuring incomes and prices, growth, AD-AS model, fiscal policy, and so on. The course relies heavily on two online databases / sources: (i) Our World in Data https://ourworldindata.org/, and (ii) Irish macroeconomic database at https://data.cso.ie/# 
 
